@@ -1,0 +1,26 @@
+{
+  "name": "lineup",
+  "main": "lineup.js",
+  "homepage": "https://github.com/Commander-lol/lineup",
+  "authors": [
+    "Louis Capitanchik <ljcapitanio@gmail.com>"
+  ],
+  "description": "An inline template style for dynamic config files",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "template",
+    "config",
+    "simple",
+    "lineup"
+  ],
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
