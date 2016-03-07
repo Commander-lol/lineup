@@ -1,0 +1,22 @@
+{
+  "name": "lineup-template",
+  "version": "1.0.0",
+  "description": "An inline template style for dynamic config files",
+  "main": "lineup.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Commander-lol/lineup.git"
+  },
+  "keywords": [
+    "template",
+    "config",
+    "simple",
+    "lineup"
+  ],
+  "author": "Louis Capitanchik",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Commander-lol/lineup/issues"
+  },
+  "homepage": "https://github.com/Commander-lol/lineup#readme"
+}
